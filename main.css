@@ -1,0 +1,13 @@
+.jumbotron {
+    padding-left: 30px;
+    padding-right: 30px;
+    font-family: 'Oswald', sans-serif;
+
+}
+.table .table-condensed {
+    border-top: 0px;
+    font-family: 'Oswald', sans-serif;
+}
+.container h2, .container h3 {
+    font-family: 'Oswald', sans-serif;
+}
